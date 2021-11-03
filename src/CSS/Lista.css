@@ -1,0 +1,15 @@
+.Lista
+{
+    width: 40%;
+    height: auto;
+    margin-top: 1rem;
+    align-items: center;
+    display: inline-block;
+    flex-direction: column;
+    justify-content: flex-start;
+}
+
+.Lista h3
+{
+    margin-bottom: 5vmin;
+}

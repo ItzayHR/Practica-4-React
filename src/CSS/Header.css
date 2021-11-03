@@ -1,0 +1,15 @@
+.Header
+{
+    width: 100%;
+    height: 25vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #FFF200;
+}
+
+.Header .Logo
+{
+    width: auto;
+    height: 55%;
+}
